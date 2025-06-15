@@ -4,8 +4,8 @@ Repositorio para subir las actividades y tareas dentro de la materia de **POO**.
 
 **Alumno:** Stalin Gabriel Mendieta López
 **Segundo Nivel - 2025**
-**Tarea Semana 3, Comparación entre Programación Tradicional y Programación Orientada a Objetos (POO), mediante programa practico**
-**Tema:** Promedio semanal del clima en Python (Versión Java adaptada a POO y Tradicional)
+**Tarea Semana 3 - Comparación entre Programación Tradicional y Programación Orientada a Objetos (POO), mediante programa practico**
+**Tema:** Promedio semanal del clima en Java
 
 **✅ Programación Tradicional**
 
@@ -38,9 +38,7 @@ Repositorio para subir las actividades y tareas dentro de la materia de **POO**.
 - Puede ser más complejo para tareas simples.
 - Requiere más estructura desde el inicio.
 
----
-
-## Conclusión
+**✅ Conclusión**
 
 Ambos enfoques cumplen con el objetivo de calcular el promedio semanal del clima, pero cada uno lo hace con una lógica diferente. La programación tradicional es útil en escenarios simples, mientras que la programación orientada a objetos es ideal para aplicaciones más complejas, ofreciendo una estructura más robusta y mantenible.
 
