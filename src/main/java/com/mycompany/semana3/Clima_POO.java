@@ -16,7 +16,7 @@ public class Semana3 {
     static class ClimaSemanal {
         private float[] temperaturas; // atributo encapsulado
         public static final String[] DIAS = {
-            "*lunes", "martes", "miercoles", "jueves", "viernes", "sabado", "domingo"
+            "lunes", "martes", "miercoles", "jueves", "viernes", "sabado", "domingo"
         };
 
         // Constructor
